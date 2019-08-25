@@ -1,0 +1,7 @@
+processesN.txt files are sample inputs of your program with N processes
+Copy processesN.txt to your project directory and rename it as processes.txt
+
+sampleOutputN_X.txt files are the expected outputs for processesN.txt using X for RQ (linked list or binary search tree)
+Your algorithm's performance parameters might be slightly different from sample output. Process execution order should not.
+
+You don't need to store your code's outputs as text files. However, you do need to run your code on sample inputs and comment on your results, either in a separate text file or in your main.cpp
